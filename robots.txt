@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ezaobpo.cn/sitemap.xml
